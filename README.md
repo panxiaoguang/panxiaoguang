@@ -2,7 +2,7 @@
 
 ### Hello world 👋
 
-- :orange_book: Focusing on julia & R
+- :orange_book: Focusing on julia
 - :hammer: Assistant of Bioinformatics
-- :anchor: Extrachromosomal circular DNA && scRNA Seq
-- :star: Need your support!
+- :anchor: Extrachromosomal circular DNA && genome editing
+- :star: Tanks for your attention !
