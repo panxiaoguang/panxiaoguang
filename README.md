@@ -5,4 +5,4 @@
 - :orange_book: Focusing on julia
 - :hammer: Assistant of Bioinformatics
 - :anchor: Extrachromosomal circular DNA && genome editing
-- :star: Tanks for your attention !
+- :star: Thanks for your attention !
