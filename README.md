@@ -7,4 +7,4 @@
 - :anchor: Extrachromosomal circular DNA && genome editing
 - :star: Thanks for your attention !
 
-<img align="right" src=https://raw.githubusercontent.com/panxiaoguang/panxiaoguang/output/github-contribution-grid-snake.svg />
+<img align="center" src=https://raw.githubusercontent.com/panxiaoguang/panxiaoguang/output/github-contribution-grid-snake.svg />
