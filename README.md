@@ -12,4 +12,3 @@
 
 <img align="center" src=https://raw.githubusercontent.com/panxiaoguang/panxiaoguang/output/github-contribution-grid-snake.svg />
 
-![](https://tncache1-f1.v3mh.com/image/2025/05/09/e77391af0703bfeac79d542eb9d9e062.png)
