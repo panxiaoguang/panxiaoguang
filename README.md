@@ -5,7 +5,7 @@
 
 ### Hello world 👋
 
-- :orange_book: Focusing on julia
+- :orange_book: Focusing on Bioinformatics & web building
 - :hammer: Assistant of Bioinformatics
 - :anchor: Extrachromosomal circular DNA && genome editing
 - :star: Thanks for your attention !
